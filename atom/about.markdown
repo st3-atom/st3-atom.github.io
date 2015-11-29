@@ -4,9 +4,8 @@ title:  "Atom"
 date:   2013-06-05 20:03:11
 tags: about
 ---
-
 ## Atom
-This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
+Description goes here
 
 
 ## [Language Specific](../../atom/language)

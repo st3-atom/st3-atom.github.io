@@ -6,8 +6,7 @@ tags: about
 ---
 ## Sublime Text 3
 
-This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
-
+Description goes here
 
 ## [Language Specific](../../st3/language)
 
