@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width">
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link href="/assets/css/style.css" rel="stylesheet" />
+  <link href="/assets/css/colors-dark.css" rel="stylesheet" />
+
+</head>
+
+<body>
+
+
+
+  <header id="header">
+    <h1><a href="/"><i class="fa fa-code"></i> {{ site.name }}</a></h1>
+    <p>{{ site.description }}</p>
+  </header>
+
+
+
+  <div id="page">
+
+
+
+    <div id="sidebar">
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/st3/about">Sublime Text 3</a></li>
+          <li><a href="/atom/about">Atom</a></li>
+          <li><a href="/submit/">Submit</a></li>
+          <li><a href="/contributor/about">Contributor</a></li>
+          <li><a href="https://twitter.com/St3Atom">Twitter</a></li>
+        </ul>
+      </nav>
+    </div>
+
+
+
+    <div id="content">
+      {{ content }}
+    </div>
+
+
+
+  </div>
+
+
+
+  <footer id="footer">
+    <p class="copyright">
+    ST3 & ATOM is a hand-picked list of packages for <a href="http://www.sublimetext.com/">Sublime Text 3</a> and <a href="https://atom.io/">Atom</a> editors by coders to get the best experince with these 2 text editors.
+    </p>
+    <p class="copyright">
+      This project is maintained by <a href="https://twitter.com/AtrHein">Aung</a> and contribute at <a href="https://github.com/aungthurhahein/ST3-ATOM">github</a> 
+    </p>
+    <p class="copyright">
+      Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name }}.
+    </p>
+    <p class="copyright">
+      Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="http://www.webmaster-source.com">Matt Harzewski</a>
+    </p>
+  </footer>
+
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script src="/assets/js/jquery.mobilemenu.min.js"></script>
+
+  <script>
+    $(document).ready(function(){
+      $('#sidebar nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#sidebar nav'});
+    });
+  </script>
+
+
+
+</body>
+</html>

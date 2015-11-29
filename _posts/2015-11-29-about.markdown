@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "ST3&Atom"
+date:   2015-11-29
+tags: about
+---
+ST3& Atom is a selection of packages for these two popular text editors by coders/programmers across the universe. The purpose is to evaluate and find the packages, which are recommended by comumnity. 
+Installing new packages is straightforward for both editors and info can find at <a href="https://packagecontrol.io/docs/usage" target="_blank">Package Control</a> for Sublime Text and <a href="https://atom.io/docs/v1.2.4/using-atom-atom-packages#" target="_blank">Atom Packages</a> for Atom. 
+
+The packages are categorized into **7 categories** for each text editor. 
+
+#### Language Specific
+- The packages that are designed for specific programming languages.    
+
+#### Code Completion
+- Code completion category is for packages with autocomplete packages, syntax linter and so on.
+
+#### Code Display
+- This is the category for themes and syntax highlights and code display environment for specific language.
+
+#### Integrations
+- This package list is for integrations with third-party tool and softwares.
+
+#### Intefaces
+- This is a package that customize text edtior's interface and so on.
+
+#### Commands
+- Packages to interacts with CLI, REPL and other utility programs.
+
+#### Others
+- Packages that don't fit into any of the above categories.
+
+## Contribution
+    
+Of course, this is a project that needs your contribution. You can help this project by:
+    
+* <a href="submit/">Submit</a> new packages and become a <a href="contributor/about">contributor</a>
+* Enhance and suggest this project for new features by fork/request this project at <a href="https://github.com/aungthurhahein/ST3-ATOM" target="_blank">github</a>
+* Share this site if you find it useful
+
+## Gentle Reminder
+
+**This is not a directory of packages** and so, there is a chance that your favourite package is not in the list. <a href="https://packagecontrol.io/browse" target="_blank">Package Control </a> and <a href="https://atom.io/packages">Atom Packages</a> do a good job on this.
+

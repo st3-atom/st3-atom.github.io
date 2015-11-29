@@ -1,0 +1,10 @@
+name: ST3&Atom 
+url: http://example.org
+description: Hand-picked packages for Sublime Text 3 & Atom text editors
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+highlighter: pygments
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+gems: [jekyll-paginate]
