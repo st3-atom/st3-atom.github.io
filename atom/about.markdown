@@ -9,16 +9,16 @@ tags: about
 This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
 
 
-## [Language Specific](../../atom/language/)
+## [Language Specific](../../atom/language)
 
-## [Code Completion](../../atom/completion/)
+## [Code Completion](../../atom/completion)
 
-## [Code Display](../../atom/code_display/)
+## [Code Display](../../atom/code_display)
 
-## [Integrations](../../atom/integrations/)
+## [Integrations](../../atom/integrations)
 
-## [Intefaces](../../atom/interface/)
+## [Intefaces](../../atom/interface)
 
-## [Commands](../../atom/commands/)
+## [Commands](../../atom/commands)
 
-## [Others](../../atom/other/)
+## [Others](../../atom/other)

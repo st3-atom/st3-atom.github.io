@@ -9,16 +9,16 @@ tags: about
 This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
 
 
-## [Language Specific](../../st3/language/)
+## [Language Specific](../../st3/language)
 
-## [Code Completion](../../st3/completion/)
+## [Code Completion](../../st3/completion)
 
-## [Code Display](../../st3/code_display/)
+## [Code Display](../../st3/code_display)
 
-## [Integrations](../../st3/integrations/)
+## [Integrations](../../st3/integrations)
 
-## [Intefaces](../../st3/interface/)
+## [Intefaces](../../st3/interface)
 
-## [Commands](../../st3/commands/)
+## [Commands](../../st3/commands)
 
-## [Others](../../st3/other/)
+## [Others](../../st3/other)
