@@ -35,7 +35,7 @@ The packages are categorized into **7 categories** for each text editor.
 Of course, this is a project that needs your contribution. You can help this project by:
     
 * <a href="submit/">Submit</a> new packages and become a <a href="contributor/about">contributor</a>
-* Enhance and suggest this project for new features by fork/request this project at <a href="https://github.com/aungthurhahein/ST3-ATOM" target="_blank">github</a>
+* Enhance and suggest this project for new features by fork/request this project at <a href="https://github.com/st3-atom/st3-atom.github.io" target="_blank">github</a>
 * Share this site if you find it useful
 
 ## Gentle Reminder

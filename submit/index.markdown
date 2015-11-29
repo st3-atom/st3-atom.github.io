@@ -9,7 +9,7 @@ tags: about
 There are few ways to submit a package to this site to share with other fellow coders..
 
 ## Option 1: Github 
-If you have a list of packages and you are a fan of github, go ahead to <a href="https://github.com/aungthurhahein/ST3-ATOM" target="_blank">github repo</a> and start wirh readme.md.
+If you have a list of packages and you are a fan of github, go ahead to <a href="https://github.com/st3-atom/st3-atom.github.io" target="_blank">github repo</a> and start wirh readme.md.
 
 ## Option 2 : Good-old Form
 This is good if you have a single package in mind and wanna share with the rest...
