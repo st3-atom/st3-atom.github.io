@@ -21,6 +21,6 @@ Look the below links to disocver new ATOM packages for your next project.
 
 ## [Intefaces](../../atom/interface)
 
-## [Commands](../../atom/commands)
+## [File Management](../../atom/file)
 
 ## [Others](../../atom/other)

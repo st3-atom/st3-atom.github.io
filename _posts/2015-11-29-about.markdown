@@ -25,8 +25,8 @@ The packages are categorized into **7 categories** for each text editor.
 #### Intefaces
 - This is a package that customize text edtior's interface and so on.
 
-#### Commands
-- Packages to interacts with CLI, REPL and other utility programs.
+#### File Management
+- Packages to extend and enahnace file management inside text editors
 
 #### Others
 - Packages that don't fit into any of the above categories.

@@ -13,9 +13,27 @@ Description:
 
 ### BracketsHighlighter
 URL: 
+Description:
 
+### Code Formattter
+URL: 
+Description:
+
+### DocBlockr
+URL: 
 Description:
 
 ### Markdown Preview
 URL: 
 Description:
+
+### BufferScroll
+URL: 
+Description:
+
+Mercurial
+
+### TrailingSpaces
+URL: 
+Description:
+

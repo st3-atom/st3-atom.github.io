@@ -13,3 +13,19 @@ Description:
 ### SublimeREPL
 URL: 
 Description:
+
+### SublimeLinter
+URL: 
+Description:
+
+### Emmet
+URL: 
+Description:
+
+### Prefixr
+URL: 
+Description:
+
+### Auto Semi-colon
+URL: 
+Description:
