@@ -5,3 +5,11 @@ date:   2013-06-05 20:03:11
 tags: about
 ---
 ## Sublime Text Code Completion Packages
+
+### SublimeCodeIntel
+URL: 
+Description:
+
+### SublimeREPL
+URL: 
+Description:
